@@ -19,7 +19,7 @@ library(reshape2)
 library(simarioV2)
 
 # working directory
-setwd(dir = "/Users/liztown/Documents/KalanLab/Papers/PigBactFun.Karinda/Final.Rcode")
+setwd(dir = "/Kalan-Lab/DeLaCruz_Townsend_etal_PorcineSkinMicrobiome")
 
 
 # Figure 1 A-D porcine mycobiome (fungi)
