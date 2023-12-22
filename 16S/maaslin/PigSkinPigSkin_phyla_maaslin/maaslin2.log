@@ -1,0 +1,54 @@
+2023-12-21 18:23:37 INFO::Writing function arguments to log file
+2023-12-21 18:23:37 DEBUG::Function arguments
+2023-12-21 18:23:37 DEBUG::Output folder: ./16S/maaslin/PigSkinPigSkin_phyla_maaslin
+2023-12-21 18:23:37 DEBUG::Min Abundance: 0.000000
+2023-12-21 18:23:37 DEBUG::Min Prevalence: 0.100000
+2023-12-21 18:23:37 DEBUG::Normalization: TSS
+2023-12-21 18:23:37 DEBUG::Transform: LOG
+2023-12-21 18:23:37 DEBUG::Analysis method: LM
+2023-12-21 18:23:37 DEBUG::Max significance: 0.250000
+2023-12-21 18:23:37 DEBUG::Random effects:
+2023-12-21 18:23:37 DEBUG::Fixed effects: Pig
+2023-12-21 18:23:37 DEBUG::Correction method: BH
+2023-12-21 18:23:37 DEBUG::Standardize: TRUE
+2023-12-21 18:23:37 DEBUG::Cores: 1
+2023-12-21 18:23:37 INFO::Verifying options selected are valid
+2023-12-21 18:23:37 INFO::Determining format of input files
+2023-12-21 18:23:37 INFO::Input format is data samples as rows and metadata samples as rows
+2023-12-21 18:23:37 DEBUG::The following samples were found to have features but no metadata. They will be removed. Kalan16S006-226,Kalan16S006-230,Kalan16S006-234,Kalan16S006-241,Kalan16S006-245,Kalan16S006-249,Kalan16S006-253
+2023-12-21 18:23:37 DEBUG::A total of 20 samples were found in both the data and metadata
+2023-12-21 18:23:37 DEBUG::Reordering data/metadata to use same sample ordering
+2023-12-21 18:23:37 INFO::Formula for fixed effects: expr ~  Pig
+2023-12-21 18:23:37 INFO::Filter data based on min abundance and min prevalence
+2023-12-21 18:23:37 INFO::Total samples in data: 20
+2023-12-21 18:23:37 INFO::Min samples required with min abundance for a feature not to be filtered: 2.000000
+2023-12-21 18:23:37 INFO::Total filtered features: 1
+2023-12-21 18:23:37 INFO::Filtered feature names from abundance and prevalence filtering: Fusobacteriota
+2023-12-21 18:23:37 INFO::Total filtered features with variance filtering: 1
+2023-12-21 18:23:37 INFO::Filtered feature names from variance filtering: Row.Labels
+2023-12-21 18:23:37 INFO::Running selected normalization method: TSS
+2023-12-21 18:23:37 INFO::Applying z-score to standardize continuous metadata
+2023-12-21 18:23:37 INFO::Running selected transform method: LOG
+2023-12-21 18:23:37 INFO::Running selected analysis method: LM
+2023-12-21 18:23:37 INFO::Fitting model to feature number 1, Actinobacteriota
+2023-12-21 18:23:37 INFO::Fitting model to feature number 2, Bacteroidota
+2023-12-21 18:23:37 INFO::Fitting model to feature number 3, Campilobacterota
+2023-12-21 18:23:37 INFO::Fitting model to feature number 4, Chloroflexi
+2023-12-21 18:23:37 INFO::Fitting model to feature number 5, Cyanobacteria
+2023-12-21 18:23:37 INFO::Fitting model to feature number 6, Deinococcota
+2023-12-21 18:23:37 INFO::Fitting model to feature number 7, Desulfobacterota
+2023-12-21 18:23:37 INFO::Fitting model to feature number 8, Elusimicrobiota
+2023-12-21 18:23:37 INFO::Fitting model to feature number 9, Fibrobacterota
+2023-12-21 18:23:37 INFO::Fitting model to feature number 10, Firmicutes
+2023-12-21 18:23:37 INFO::Fitting model to feature number 11, Patescibacteria
+2023-12-21 18:23:37 INFO::Fitting model to feature number 12, Planctomycetota
+2023-12-21 18:23:37 INFO::Fitting model to feature number 13, Proteobacteria
+2023-12-21 18:23:37 INFO::Fitting model to feature number 14, Spirochaetota
+2023-12-21 18:23:37 INFO::Fitting model to feature number 15, Verrucomicrobiota
+2023-12-21 18:23:37 INFO::Counting total values for each feature
+2023-12-21 18:23:37 INFO::Writing residuals to file ./16S/maaslin/PigSkinPigSkin_phyla_maaslin/residuals.rds
+2023-12-21 18:23:37 INFO::Writing fitted values to file ./16S/maaslin/PigSkinPigSkin_phyla_maaslin/fitted.rds
+2023-12-21 18:23:37 INFO::Writing all results to file (ordered by increasing q-values): ./16S/maaslin/PigSkinPigSkin_phyla_maaslin/all_results.tsv
+2023-12-21 18:23:37 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.250000 ) to file (ordered by increasing q-values): ./16S/maaslin/PigSkinPigSkin_phyla_maaslin/significant_results.tsv
+2023-12-21 18:23:37 INFO::Writing heatmap of significant results to file: ./16S/maaslin/PigSkinPigSkin_phyla_maaslin/heatmap.pdf
+2023-12-21 18:23:37 INFO::Writing association plots (one for each significant association) to output folder: ./16S/maaslin/PigSkinPigSkin_phyla_maaslin

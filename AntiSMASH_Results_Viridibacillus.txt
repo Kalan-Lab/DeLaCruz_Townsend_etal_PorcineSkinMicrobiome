@@ -1,0 +1,8 @@
+LK2570	LK2570.31	LK2570.31.region001	NRPS	NRPS	Near Contig Edge	2379	Dorsal	dry
+LK2570	LK2570.4	LK2570.4.region001	NRPS	NRPS	Near Contig Edge	23214	Dorsal	dry
+LK2570	LK2570.18	LK2570.18.region001	lanthipeptide-class-iii	lanthipeptide-class-iii	Near Contig Edge	13059	Dorsal	dry
+LK2570	LK2570.16	LK2570.16.region001	NRPS	NRPS	Near Contig Edge	36263	Dorsal	dry
+LK2570	LK2570.2	LK2570.2.region001	T3PKS	T3PKS	Not Near Contig Edge	41068	Dorsal	dry
+LK2570	LK2570.1	LK2570.1.region001	terpene	terpene	Not Near Contig Edge	20822	Dorsal	dry
+LK2570	LK2570.25	LK2570.25.region001	NRPS	NRPS	Near Contig Edge	4314	Dorsal	dry
+LK2570	LK2570.15	LK2570.15.region001	multi-type (with NRPS)	RRE-containing|NRPS-like	Not Near Contig Edge	43887	Dorsal	dry

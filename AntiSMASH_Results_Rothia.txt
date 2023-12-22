@@ -1,0 +1,9 @@
+LK2492	LK2492.7	LK2492.7.region001	betalactone	betalactone	Not Near Contig Edge	29870	Dorsal	dry
+LK2492	LK2492.2	LK2492.2.region001	RRE-containing	RRE-containing	Not Near Contig Edge	20297	Dorsal	dry
+LK2492	LK2492.2	LK2492.2.region002	RiPP-like	RiPP-like	Not Near Contig Edge	10288	Dorsal	dry
+LK2492	LK2492.4	LK2492.4.region002	terpene	terpene	Not Near Contig Edge	20510	Dorsal	dry
+LK2492	LK2492.4	LK2492.4.region001	lanthipeptide-class-v	lanthipeptide-class-v	Not Near Contig Edge	44755	Dorsal	dry
+LK2588	LK2588.3	LK2588.3.region001	RiPP-like	RiPP-like	Not Near Contig Edge	9360	Ventral	dry
+LK2588	LK2588.3	LK2588.3.region002	RiPP-like	RiPP-like	Not Near Contig Edge	10279	Ventral	dry
+LK2588	LK2588.4	LK2588.4.region001	RRE-containing	RRE-containing	Not Near Contig Edge	20303	Ventral	dry
+LK2588	LK2588.1	LK2588.1.region001	betalactone	betalactone	Not Near Contig Edge	26921	Ventral	dry

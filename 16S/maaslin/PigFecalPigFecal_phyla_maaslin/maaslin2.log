@@ -1,0 +1,56 @@
+2023-12-21 18:23:44 INFO::Writing function arguments to log file
+2023-12-21 18:23:44 DEBUG::Function arguments
+2023-12-21 18:23:44 DEBUG::Output folder: ./16S/maaslin/PigFecalPigFecal_phyla_maaslin
+2023-12-21 18:23:44 DEBUG::Min Abundance: 0.000000
+2023-12-21 18:23:44 DEBUG::Min Prevalence: 0.100000
+2023-12-21 18:23:44 DEBUG::Normalization: TSS
+2023-12-21 18:23:44 DEBUG::Transform: LOG
+2023-12-21 18:23:44 DEBUG::Analysis method: LM
+2023-12-21 18:23:44 DEBUG::Max significance: 0.250000
+2023-12-21 18:23:44 DEBUG::Random effects:
+2023-12-21 18:23:44 DEBUG::Fixed effects: Pig
+2023-12-21 18:23:44 DEBUG::Correction method: BH
+2023-12-21 18:23:44 DEBUG::Standardize: TRUE
+2023-12-21 18:23:44 DEBUG::Cores: 1
+2023-12-21 18:23:44 INFO::Verifying options selected are valid
+2023-12-21 18:23:44 INFO::Determining format of input files
+2023-12-21 18:23:44 INFO::Input format is data samples as rows and metadata samples as rows
+2023-12-21 18:23:44 DEBUG::The following samples were found to have features but no metadata. They will be removed. Kalan16S006-218,Kalan16S006-219,Kalan16S006-221,Kalan16S006-222,Kalan16S006-224,Kalan16S006-225,Kalan16S006-228,Kalan16S006-229,Kalan16S006-232,Kalan16S006-233,Kalan16S006-236,Kalan16S006-237,Kalan16S006-239,Kalan16S006-240,Kalan16S006-243,Kalan16S006-244,Kalan16S006-247,Kalan16S006-248,Kalan16S006-251,Kalan16S006-252
+2023-12-21 18:23:44 DEBUG::A total of 7 samples were found in both the data and metadata
+2023-12-21 18:23:44 DEBUG::Reordering data/metadata to use same sample ordering
+2023-12-21 18:23:44 INFO::Formula for fixed effects: expr ~  Pig
+2023-12-21 18:23:44 INFO::Filter data based on min abundance and min prevalence
+2023-12-21 18:23:44 INFO::Total samples in data: 7
+2023-12-21 18:23:44 INFO::Min samples required with min abundance for a feature not to be filtered: 0.700000
+2023-12-21 18:23:44 INFO::Total filtered features: 3
+2023-12-21 18:23:44 INFO::Filtered feature names from abundance and prevalence filtering: Chloroflexi, Deinococcota, Patescibacteria
+2023-12-21 18:23:44 INFO::Total filtered features with variance filtering: 1
+2023-12-21 18:23:44 INFO::Filtered feature names from variance filtering: Row.Labels
+2023-12-21 18:23:44 INFO::Running selected normalization method: TSS
+2023-12-21 18:23:44 INFO::Applying z-score to standardize continuous metadata
+2023-12-21 18:23:44 INFO::Running selected transform method: LOG
+2023-12-21 18:23:44 INFO::Running selected analysis method: LM
+2023-12-21 18:23:44 INFO::Fitting model to feature number 1, Actinobacteriota
+2023-12-21 18:23:44 INFO::Fitting model to feature number 2, Bacteroidota
+2023-12-21 18:23:44 INFO::Fitting model to feature number 3, Campilobacterota
+2023-12-21 18:23:44 INFO::Fitting model to feature number 4, Cyanobacteria
+2023-12-21 18:23:44 INFO::Fitting model to feature number 5, Desulfobacterota
+2023-12-21 18:23:44 INFO::Fitting model to feature number 6, Elusimicrobiota
+2023-12-21 18:23:44 INFO::Fitting model to feature number 7, Fibrobacterota
+2023-12-21 18:23:44 INFO::Fitting model to feature number 8, Firmicutes
+2023-12-21 18:23:44 INFO::Fitting model to feature number 9, Fusobacteriota
+2023-12-21 18:23:44 INFO::Fitting model to feature number 10, Planctomycetota
+2023-12-21 18:23:44 INFO::Fitting model to feature number 11, Proteobacteria
+2023-12-21 18:23:44 INFO::Fitting model to feature number 12, Spirochaetota
+2023-12-21 18:23:44 INFO::Fitting model to feature number 13, Verrucomicrobiota
+2023-12-21 18:23:44 INFO::Counting total values for each feature
+2023-12-21 18:23:44 INFO::Writing residuals to file ./16S/maaslin/PigFecalPigFecal_phyla_maaslin/residuals.rds
+2023-12-21 18:23:44 INFO::Writing fitted values to file ./16S/maaslin/PigFecalPigFecal_phyla_maaslin/fitted.rds
+2023-12-21 18:23:44 INFO::Writing all results to file (ordered by increasing q-values): ./16S/maaslin/PigFecalPigFecal_phyla_maaslin/all_results.tsv
+2023-12-21 18:23:44 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.250000 ) to file (ordered by increasing q-values): ./16S/maaslin/PigFecalPigFecal_phyla_maaslin/significant_results.tsv
+2023-12-21 18:23:44 INFO::Writing heatmap of significant results to file: ./16S/maaslin/PigFecalPigFecal_phyla_maaslin/heatmap.pdf
+2023-12-21 18:23:44 INFO::Writing association plots (one for each significant association) to output folder: ./16S/maaslin/PigFecalPigFecal_phyla_maaslin
+2023-12-21 18:23:44 INFO::Plotting associations from most to least significant, grouped by metadata
+2023-12-21 18:23:44 INFO::Plotting data for metadata number 1, Pig
+2023-12-21 18:23:44 INFO::Creating boxplot for categorical data, Pig vs Fusobacteriota
+2023-12-21 18:23:45 INFO::Creating boxplot for categorical data, Pig vs Campilobacterota

@@ -1,0 +1,195 @@
+2023-12-21 18:23:41 INFO::Writing function arguments to log file
+2023-12-21 18:23:41 DEBUG::Function arguments
+2023-12-21 18:23:41 DEBUG::Output folder: ./16S/maaslin/PigFecalPigFecal_genus_maaslin
+2023-12-21 18:23:41 DEBUG::Min Abundance: 0.000000
+2023-12-21 18:23:41 DEBUG::Min Prevalence: 0.100000
+2023-12-21 18:23:41 DEBUG::Normalization: TSS
+2023-12-21 18:23:41 DEBUG::Transform: LOG
+2023-12-21 18:23:41 DEBUG::Analysis method: LM
+2023-12-21 18:23:41 DEBUG::Max significance: 0.250000
+2023-12-21 18:23:41 DEBUG::Random effects:
+2023-12-21 18:23:41 DEBUG::Fixed effects: Pig
+2023-12-21 18:23:41 DEBUG::Correction method: BH
+2023-12-21 18:23:41 DEBUG::Standardize: TRUE
+2023-12-21 18:23:41 DEBUG::Cores: 1
+2023-12-21 18:23:41 INFO::Verifying options selected are valid
+2023-12-21 18:23:41 INFO::Determining format of input files
+2023-12-21 18:23:41 INFO::Input format is data samples as rows and metadata samples as rows
+2023-12-21 18:23:41 DEBUG::The following samples were found to have features but no metadata. They will be removed. Kalan16S006-218,Kalan16S006-219,Kalan16S006-221,Kalan16S006-222,Kalan16S006-224,Kalan16S006-225,Kalan16S006-228,Kalan16S006-229,Kalan16S006-232,Kalan16S006-233,Kalan16S006-236,Kalan16S006-237,Kalan16S006-239,Kalan16S006-240,Kalan16S006-243,Kalan16S006-244,Kalan16S006-247,Kalan16S006-248,Kalan16S006-251,Kalan16S006-252
+2023-12-21 18:23:41 DEBUG::A total of 7 samples were found in both the data and metadata
+2023-12-21 18:23:41 DEBUG::Reordering data/metadata to use same sample ordering
+2023-12-21 18:23:41 INFO::Formula for fixed effects: expr ~  Pig
+2023-12-21 18:23:41 INFO::Filter data based on min abundance and min prevalence
+2023-12-21 18:23:41 INFO::Total samples in data: 7
+2023-12-21 18:23:41 INFO::Min samples required with min abundance for a feature not to be filtered: 0.700000
+2023-12-21 18:23:41 INFO::Total filtered features: 58
+2023-12-21 18:23:41 INFO::Filtered feature names from abundance and prevalence filtering: Adlercreutzia, Aeromonas, Aliicoccus, Alloiococcus, Anaerostipes, Bergeyella, Brachybacterium, Brevibacterium, Candidatus_Saccharimonas, Carnobacterium, Chryseobacterium, Cutibacterium, Deinococcus, Dermabacter, Desemzia, Dietzia, DNF00809, EMP.G18, Empedobacter, Erysipelothrix, Erysipelotrichaceae_UCG.003, Exiguobacterium, Fastidiosipila, Flaviflexus, Flavobacterium, Gallicola, Glutamicibacter, Helcococcus, Helicobacter, Ignatzschineria, Jeotgalicoccus, JG30.KF.CM45, Lachnospiraceae_UCG.003, Lachnospiraceae_UCG.010, Lactococcus, Luteococcus, Lysobacter, Macrococcus, Marinospirillum, Murdochiella, Myroides, Ornithinimicrobium, Paracoccus, Parvimonas, Peptostreptococcus, Propionimicrobium, Proteiniclasticum, Proteus, Pseudomonas, Ruminobacter, Sarcina, Solibacillus, T2WK15B57, Taibaiella, Tessaracoccus, TM7a, Trichococcus, W5053
+2023-12-21 18:23:41 INFO::Total filtered features with variance filtering: 1
+2023-12-21 18:23:41 INFO::Filtered feature names from variance filtering: Row.Labels
+2023-12-21 18:23:41 INFO::Running selected normalization method: TSS
+2023-12-21 18:23:41 INFO::Applying z-score to standardize continuous metadata
+2023-12-21 18:23:41 INFO::Running selected transform method: LOG
+2023-12-21 18:23:41 INFO::Running selected analysis method: LM
+2023-12-21 18:23:41 INFO::Fitting model to feature number 1, X.Anaerorhabdus._furcosa_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 2, X.Clostridium._methylpentosum_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 3, X.Eubacterium._brachy_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 4, X.Eubacterium._coprostanoligenes_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 5, X.Eubacterium._eligens_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 6, X.Eubacterium._hallii_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 7, X.Eubacterium._nodatum_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 8, X.Eubacterium._ruminantium_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 9, X.Eubacterium._siraeum_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 10, X.Ruminococcus._torques_group
+2023-12-21 18:23:41 INFO::Fitting model to feature number 11, Acetitomaculum
+2023-12-21 18:23:41 INFO::Fitting model to feature number 12, Acidaminococcus
+2023-12-21 18:23:41 INFO::Fitting model to feature number 13, Acinetobacter
+2023-12-21 18:23:41 INFO::Fitting model to feature number 14, Actinobacillus
+2023-12-21 18:23:41 INFO::Fitting model to feature number 15, Aerococcus
+2023-12-21 18:23:41 INFO::Fitting model to feature number 16, Akkermansia
+2023-12-21 18:23:41 INFO::Fitting model to feature number 17, Alistipes
+2023-12-21 18:23:41 INFO::Fitting model to feature number 18, Allisonella
+2023-12-21 18:23:41 INFO::Fitting model to feature number 19, Alloprevotella
+2023-12-21 18:23:41 INFO::Fitting model to feature number 20, Anaerococcus
+2023-12-21 18:23:41 INFO::Fitting model to feature number 21, Anaeroplasma
+2023-12-21 18:23:41 INFO::Fitting model to feature number 22, Anaerovibrio
+2023-12-21 18:23:41 INFO::Fitting model to feature number 23, Anaerovorax
+2023-12-21 18:23:41 INFO::Fitting model to feature number 24, Arcobacter
+2023-12-21 18:23:41 INFO::Fitting model to feature number 25, Atopostipes
+2023-12-21 18:23:42 INFO::Fitting model to feature number 26, Bacillus
+2023-12-21 18:23:42 INFO::Fitting model to feature number 27, Bacteroidales_RF16_group
+2023-12-21 18:23:42 INFO::Fitting model to feature number 28, Bacteroides
+2023-12-21 18:23:42 INFO::Fitting model to feature number 29, Bifidobacterium
+2023-12-21 18:23:42 INFO::Fitting model to feature number 30, Bilophila
+2023-12-21 18:23:42 INFO::Fitting model to feature number 31, Blautia
+2023-12-21 18:23:42 INFO::Fitting model to feature number 32, Breznakia
+2023-12-21 18:23:42 INFO::Fitting model to feature number 33, Butyricicoccus
+2023-12-21 18:23:42 INFO::Fitting model to feature number 34, Butyricimonas
+2023-12-21 18:23:42 INFO::Fitting model to feature number 35, Butyrivibrio
+2023-12-21 18:23:42 INFO::Fitting model to feature number 36, CAG.352
+2023-12-21 18:23:42 INFO::Fitting model to feature number 37, Campylobacter
+2023-12-21 18:23:42 INFO::Fitting model to feature number 38, Candidatus_Soleaferrea
+2023-12-21 18:23:42 INFO::Fitting model to feature number 39, Candidatus_Stoquefichus
+2023-12-21 18:23:42 INFO::Fitting model to feature number 40, Cellulosilyticum
+2023-12-21 18:23:42 INFO::Fitting model to feature number 41, Christensenellaceae_R.7_group
+2023-12-21 18:23:42 INFO::Fitting model to feature number 42, Clostridia_UCG.014
+2023-12-21 18:23:42 INFO::Fitting model to feature number 43, Clostridia_vadinBB60_group
+2023-12-21 18:23:42 INFO::Fitting model to feature number 44, Clostridium_sensu_stricto_1
+2023-12-21 18:23:42 INFO::Fitting model to feature number 45, Clostridium_sensu_stricto_6
+2023-12-21 18:23:42 INFO::Fitting model to feature number 46, Colidextribacter
+2023-12-21 18:23:42 INFO::Fitting model to feature number 47, Collinsella
+2023-12-21 18:23:42 INFO::Fitting model to feature number 48, Comamonas
+2023-12-21 18:23:42 INFO::Fitting model to feature number 49, Coprococcus
+2023-12-21 18:23:42 INFO::Fitting model to feature number 50, Corynebacterium
+2023-12-21 18:23:42 INFO::Fitting model to feature number 51, Defluviitaleaceae_UCG.011
+2023-12-21 18:23:42 INFO::Fitting model to feature number 52, Dermatophilus
+2023-12-21 18:23:42 INFO::Fitting model to feature number 53, Desulfovibrio
+2023-12-21 18:23:42 INFO::Fitting model to feature number 54, dgA.11_gut_group
+2023-12-21 18:23:42 INFO::Fitting model to feature number 55, Dialister
+2023-12-21 18:23:42 INFO::Fitting model to feature number 56, Dorea
+2023-12-21 18:23:42 INFO::Fitting model to feature number 57, Elusimicrobium
+2023-12-21 18:23:42 INFO::Fitting model to feature number 58, Enterococcus
+2023-12-21 18:23:42 INFO::Fitting model to feature number 59, Enterorhabdus
+2023-12-21 18:23:42 INFO::Fitting model to feature number 60, Erysipelatoclostridium
+2023-12-21 18:23:42 INFO::Fitting model to feature number 61, Erysipelotrichaceae_UCG.009
+2023-12-21 18:23:42 INFO::Fitting model to feature number 62, Escherichia.Shigella
+2023-12-21 18:23:42 INFO::Fitting model to feature number 63, Facklamia
+2023-12-21 18:23:42 INFO::Fitting model to feature number 64, Faecalibacterium
+2023-12-21 18:23:42 INFO::Fitting model to feature number 65, Faecalicoccus
+2023-12-21 18:23:42 INFO::Fitting model to feature number 66, Family_XIII_AD3011_group
+2023-12-21 18:23:42 INFO::Fitting model to feature number 67, Family_XIII_UCG.001
+2023-12-21 18:23:42 INFO::Fitting model to feature number 68, Fenollaria
+2023-12-21 18:23:42 INFO::Fitting model to feature number 69, Fibrobacter
+2023-12-21 18:23:42 INFO::Fitting model to feature number 70, Finegoldia
+2023-12-21 18:23:42 INFO::Fitting model to feature number 71, Frisingicoccus
+2023-12-21 18:23:42 INFO::Fitting model to feature number 72, Fusobacterium
+2023-12-21 18:23:42 INFO::Fitting model to feature number 73, Gastranaerophilales
+2023-12-21 18:23:42 INFO::Fitting model to feature number 74, Gemella
+2023-12-21 18:23:42 INFO::Fitting model to feature number 75, Globicatella
+2023-12-21 18:23:42 INFO::Fitting model to feature number 76, Holdemanella
+2023-12-21 18:23:42 INFO::Fitting model to feature number 77, Hydrogenoanaerobacterium
+2023-12-21 18:23:42 INFO::Fitting model to feature number 78, Incertae_Sedis
+2023-12-21 18:23:42 INFO::Fitting model to feature number 79, Izemoplasmatales
+2023-12-21 18:23:42 INFO::Fitting model to feature number 80, Jeotgalibaca
+2023-12-21 18:23:42 INFO::Fitting model to feature number 81, Kocuria
+2023-12-21 18:23:42 INFO::Fitting model to feature number 82, Kurthia
+2023-12-21 18:23:42 INFO::Fitting model to feature number 83, Lachnoclostridium
+2023-12-21 18:23:42 INFO::Fitting model to feature number 84, Lachnospira
+2023-12-21 18:23:42 INFO::Fitting model to feature number 85, Lachnospiraceae_FCS020_group
+2023-12-21 18:23:42 INFO::Fitting model to feature number 86, Lachnospiraceae_ND3007_group
+2023-12-21 18:23:42 INFO::Fitting model to feature number 87, Lachnospiraceae_NK4A136_group
+2023-12-21 18:23:42 INFO::Fitting model to feature number 88, Lachnospiraceae_NK4B4_group
+2023-12-21 18:23:43 INFO::Fitting model to feature number 89, Lachnospiraceae_UCG.007
+2023-12-21 18:23:43 INFO::Fitting model to feature number 90, Lactobacillus
+2023-12-21 18:23:43 INFO::Fitting model to feature number 91, Marvinbryantia
+2023-12-21 18:23:43 INFO::Fitting model to feature number 92, Megasphaera
+2023-12-21 18:23:43 INFO::Fitting model to feature number 93, Micrococcus
+2023-12-21 18:23:43 INFO::Fitting model to feature number 94, Mitsuokella
+2023-12-21 18:23:43 INFO::Fitting model to feature number 95, Monoglobus
+2023-12-21 18:23:43 INFO::Fitting model to feature number 96, Moraxella
+2023-12-21 18:23:43 INFO::Fitting model to feature number 97, Moryella
+2023-12-21 18:23:43 INFO::Fitting model to feature number 98, Muribaculaceae
+2023-12-21 18:23:43 INFO::Fitting model to feature number 99, Negativibacillus
+2023-12-21 18:23:43 INFO::Fitting model to feature number 100, Neisseria
+2023-12-21 18:23:43 INFO::Fitting model to feature number 101, NK4A214_group
+2023-12-21 18:23:43 INFO::Fitting model to feature number 102, Odoribacter
+2023-12-21 18:23:43 INFO::Fitting model to feature number 103, Olsenella
+2023-12-21 18:23:43 INFO::Fitting model to feature number 104, Oscillibacter
+2023-12-21 18:23:43 INFO::Fitting model to feature number 105, Oscillospira
+2023-12-21 18:23:43 INFO::Fitting model to feature number 106, Oxalobacter
+2023-12-21 18:23:43 INFO::Fitting model to feature number 107, p.1088.a5_gut_group
+2023-12-21 18:23:43 INFO::Fitting model to feature number 108, Paludicola
+2023-12-21 18:23:43 INFO::Fitting model to feature number 109, Parabacteroides
+2023-12-21 18:23:43 INFO::Fitting model to feature number 110, Parasutterella
+2023-12-21 18:23:43 INFO::Fitting model to feature number 111, Peptococcus
+2023-12-21 18:23:43 INFO::Fitting model to feature number 112, Peptoniphilus
+2023-12-21 18:23:43 INFO::Fitting model to feature number 113, Phascolarctobacterium
+2023-12-21 18:23:43 INFO::Fitting model to feature number 114, Porphyromonas
+2023-12-21 18:23:43 INFO::Fitting model to feature number 115, Prevotella
+2023-12-21 18:23:43 INFO::Fitting model to feature number 116, Prevotellaceae_NK3B31_group
+2023-12-21 18:23:43 INFO::Fitting model to feature number 117, Prevotellaceae_UCG.001
+2023-12-21 18:23:43 INFO::Fitting model to feature number 118, Prevotellaceae_UCG.003
+2023-12-21 18:23:43 INFO::Fitting model to feature number 119, Pseudoscardovia
+2023-12-21 18:23:43 INFO::Fitting model to feature number 120, Psychrobacter
+2023-12-21 18:23:43 INFO::Fitting model to feature number 121, RF39
+2023-12-21 18:23:43 INFO::Fitting model to feature number 122, Rikenellaceae_RC9_gut_group
+2023-12-21 18:23:43 INFO::Fitting model to feature number 123, Romboutsia
+2023-12-21 18:23:43 INFO::Fitting model to feature number 124, Roseburia
+2023-12-21 18:23:43 INFO::Fitting model to feature number 125, Rothia
+2023-12-21 18:23:43 INFO::Fitting model to feature number 126, Ruminococcaceae
+2023-12-21 18:23:43 INFO::Fitting model to feature number 127, Ruminococcus
+2023-12-21 18:23:43 INFO::Fitting model to feature number 128, S5.A14a
+2023-12-21 18:23:43 INFO::Fitting model to feature number 129, Sanguibacteroides
+2023-12-21 18:23:43 INFO::Fitting model to feature number 130, Sharpea
+2023-12-21 18:23:43 INFO::Fitting model to feature number 131, Solobacterium
+2023-12-21 18:23:43 INFO::Fitting model to feature number 132, Sphaerochaeta
+2023-12-21 18:23:43 INFO::Fitting model to feature number 133, Sphingobacterium
+2023-12-21 18:23:43 INFO::Fitting model to feature number 134, Staphylococcus
+2023-12-21 18:23:43 INFO::Fitting model to feature number 135, Streptococcus
+2023-12-21 18:23:43 INFO::Fitting model to feature number 136, Subdoligranulum
+2023-12-21 18:23:43 INFO::Fitting model to feature number 137, Succinivibrio
+2023-12-21 18:23:43 INFO::Fitting model to feature number 138, Sutterella
+2023-12-21 18:23:43 INFO::Fitting model to feature number 139, Terrisporobacter
+2023-12-21 18:23:43 INFO::Fitting model to feature number 140, Treponema
+2023-12-21 18:23:43 INFO::Fitting model to feature number 141, Trueperella
+2023-12-21 18:23:43 INFO::Fitting model to feature number 142, Turicibacter
+2023-12-21 18:23:43 INFO::Fitting model to feature number 143, UBA1819
+2023-12-21 18:23:43 INFO::Fitting model to feature number 144, UCG.001
+2023-12-21 18:23:43 INFO::Fitting model to feature number 145, UCG.002
+2023-12-21 18:23:43 INFO::Fitting model to feature number 146, UCG.004
+2023-12-21 18:23:43 INFO::Fitting model to feature number 147, UCG.005
+2023-12-21 18:23:43 INFO::Fitting model to feature number 148, UCG.008
+2023-12-21 18:23:43 INFO::Fitting model to feature number 149, UCG.009
+2023-12-21 18:23:43 INFO::Fitting model to feature number 150, UCG.010
+2023-12-21 18:23:43 INFO::Fitting model to feature number 151, uncultured
+2023-12-21 18:23:43 INFO::Fitting model to feature number 152, vadinBE97
+2023-12-21 18:23:43 INFO::Fitting model to feature number 153, Veillonella
+2023-12-21 18:23:43 INFO::Fitting model to feature number 154, Victivallaceae
+2023-12-21 18:23:43 INFO::Fitting model to feature number 155, Victivallis
+2023-12-21 18:23:43 INFO::Fitting model to feature number 156, WCHB1.41
+2023-12-21 18:23:44 INFO::Counting total values for each feature
+2023-12-21 18:23:44 INFO::Writing residuals to file ./16S/maaslin/PigFecalPigFecal_genus_maaslin/residuals.rds
+2023-12-21 18:23:44 INFO::Writing fitted values to file ./16S/maaslin/PigFecalPigFecal_genus_maaslin/fitted.rds
+2023-12-21 18:23:44 INFO::Writing all results to file (ordered by increasing q-values): ./16S/maaslin/PigFecalPigFecal_genus_maaslin/all_results.tsv
+2023-12-21 18:23:44 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.250000 ) to file (ordered by increasing q-values): ./16S/maaslin/PigFecalPigFecal_genus_maaslin/significant_results.tsv
+2023-12-21 18:23:44 INFO::Writing heatmap of significant results to file: ./16S/maaslin/PigFecalPigFecal_genus_maaslin/heatmap.pdf
+2023-12-21 18:23:44 INFO::Writing association plots (one for each significant association) to output folder: ./16S/maaslin/PigFecalPigFecal_genus_maaslin

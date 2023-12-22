@@ -1,0 +1,15 @@
+LK2561	LK2561.3	LK2561.3.region004	terpene	terpene	Not Near Contig Edge	20834	Dorsal	dry
+LK2561	LK2561.8	LK2561.8.region002	ectoine	ectoine	Not Near Contig Edge	10411	Dorsal	dry
+LK2561	LK2561.3	LK2561.3.region003	multi-type (with NRPS & PKS)	opine-like-metallophore|NRPS|transAT-PKS	Not Near Contig Edge	78824	Dorsal	dry
+LK2561	LK2561.3	LK2561.3.region001	terpene	terpene	Not Near Contig Edge	20379	Dorsal	dry
+LK2561	LK2561.2	LK2561.2.region002	cyclic-lactone-autoinducer	cyclic-lactone-autoinducer	Not Near Contig Edge	20667	Dorsal	dry
+LK2561	LK2561.13	LK2561.13.region001	T3PKS	T3PKS	Near Contig Edge	26845	Dorsal	dry
+LK2561	LK2561.6	LK2561.6.region001	RRE-containing	RRE-containing	Not Near Contig Edge	20291	Dorsal	dry
+LK2561	LK2561.3	LK2561.3.region005	transAT-PKS	transAT-PKS	Near Contig Edge	82321	Dorsal	dry
+LK2561	LK2561.1	LK2561.1.region002	cyclic-lactone-autoinducer	cyclic-lactone-autoinducer	Not Near Contig Edge	20534	Dorsal	dry
+LK2561	LK2561.4	LK2561.4.region001	proteusin	proteusin	Near Contig Edge	20240	Dorsal	dry
+LK2561	LK2561.8	LK2561.8.region001	multi-type	RRE-containing|lassopeptide	Not Near Contig Edge	22752	Dorsal	dry
+LK2561	LK2561.1	LK2561.1.region001	multi-type (with NRPS)	NRP-metallophore|NRPS	Not Near Contig Edge	52000	Dorsal	dry
+LK2561	LK2561.3	LK2561.3.region002	NRPS-like	NRPS-like	Not Near Contig Edge	41401	Dorsal	dry
+LK2561	LK2561.9	LK2561.9.region001	NRPS-like	NRPS-like	Not Near Contig Edge	43717	Dorsal	dry
+LK2561	LK2561.2	LK2561.2.region001	terpene	terpene	Not Near Contig Edge	21926	Dorsal	dry

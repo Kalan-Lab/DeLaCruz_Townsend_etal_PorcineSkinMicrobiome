@@ -1,0 +1,5 @@
+LK2545	LK2545.6	LK2545.6.region002	opine-like-metallophore	opine-like-metallophore	Not Near Contig Edge	22101	Oral	moist
+LK2545	LK2545.2	LK2545.2.region001	T3PKS	T3PKS	Near Contig Edge	34472	Oral	moist
+LK2545	LK2545.6	LK2545.6.region001	NRPS	NRPS	Not Near Contig Edge	47164	Oral	moist
+LK2545	LK2545.13	LK2545.13.region001	NI-siderophore	NI-siderophore	Near Contig Edge	14993	Oral	moist
+LK2545	LK2545.18	LK2545.18.region001	cyclic-lactone-autoinducer	cyclic-lactone-autoinducer	Near Contig Edge	20709	Oral	moist

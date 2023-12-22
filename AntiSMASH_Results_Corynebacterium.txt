@@ -1,0 +1,27 @@
+LK2510	LK2510.3	LK2510.3.region001	T1PKS	T1PKS	Not Near Contig Edge	44782	Ventral	dry
+LK2510	LK2510.20	LK2510.20.region001	terpene	terpene	Near Contig Edge	20882	Ventral	dry
+LK2510	LK2510.21	LK2510.21.region001	ectoine	ectoine	Near Contig Edge	8878	Ventral	dry
+LK2510	LK2510.5	LK2510.5.region001	NAPAA	NAPAA	Not Near Contig Edge	33810	Ventral	dry
+LK2536	LK2536.3	LK2536.3.region001	multi-type (with PKS)	prodigiosin|T1PKS	Not Near Contig Edge	50487	Inguinal	moist
+LK2536	LK2536.3	LK2536.3.region002	multi-type	terpene|NAPAA	Not Near Contig Edge	54621	Inguinal	moist
+LK2521	LK2521.3	LK2521.3.region002	multi-type (with PKS)	prodigiosin|T1PKS	Not Near Contig Edge	50483	Axilla	moist
+LK2521	LK2521.3	LK2521.3.region001	multi-type	terpene|NAPAA	Not Near Contig Edge	54637	Axilla	moist
+LK2537	LK2537.3	LK2537.3.region001	multi-type	terpene|NAPAA	Not Near Contig Edge	54621	Inguinal	moist
+LK2537	LK2537.3	LK2537.3.region002	multi-type (with PKS)	prodigiosin|T1PKS	Not Near Contig Edge	50487	Inguinal	moist
+LK2582	LK2582.3	LK2582.3.region001	multi-type	terpene|NAPAA	Not Near Contig Edge	54637	Ventral	dry
+LK2582	LK2582.3	LK2582.3.region002	multi-type (with PKS)	prodigiosin|T1PKS	Not Near Contig Edge	50483	Ventral	dry
+LK2602	LK2602.3	LK2602.3.region001	multi-type	terpene|NAPAA	Not Near Contig Edge	54637	Ventral	dry
+LK2602	LK2602.3	LK2602.3.region002	multi-type (with PKS)	prodigiosin|T1PKS	Not Near Contig Edge	50483	Ventral	dry
+LK2538	LK2538.15	LK2538.15.region001	NAPAA	NAPAA	Not Near Contig Edge	33915	Oral	moist
+LK2538	LK2538.7	LK2538.7.region001	T1PKS	T1PKS	Not Near Contig Edge	44860	Oral	moist
+LK2538	LK2538.3	LK2538.3.region001	terpene	terpene	Near Contig Edge	12460	Oral	moist
+LK2640	LK2640.6	LK2640.6.region001	NAPAA	NAPAA	Not Near Contig Edge	33948	Inguinal	moist
+LK2640	LK2640.3	LK2640.3.region002	terpene	terpene	Not Near Contig Edge	20921	Inguinal	moist
+LK2640	LK2640.3	LK2640.3.region001	NI-siderophore	NI-siderophore	Near Contig Edge	12427	Inguinal	moist
+LK2640	LK2640.10	LK2640.10.region001	T1PKS	T1PKS	Near Contig Edge	27217	Inguinal	moist
+LK2567	LK2567.3	LK2567.3.region002	multi-type (with PKS)	prodigiosin|T1PKS	Not Near Contig Edge	50483	Dorsal	dry
+LK2567	LK2567.3	LK2567.3.region001	multi-type	terpene|NAPAA	Not Near Contig Edge	54637	Dorsal	dry
+LK2569	LK2569.24	LK2569.24.region001	terpene	terpene	Near Contig Edge	9444	Dorsal	dry
+LK2569	LK2569.12	LK2569.12.region001	T1PKS	T1PKS	Near Contig Edge	23366	Dorsal	dry
+LK2569	LK2569.6	LK2569.6.region001	terpene	terpene	Not Near Contig Edge	21233	Dorsal	dry
+LK2569	LK2569.3	LK2569.3.region001	NAPAA	NAPAA	Not Near Contig Edge	33978	Dorsal	dry

@@ -1,0 +1,28 @@
+LK2660	LK2660.29	LK2660.29.region001	linaridin	linaridin	Near Contig Edge	4545	Nares	moist
+LK2660	LK2660.14	LK2660.14.region001	betalactone	betalactone	Not Near Contig Edge	27110	Nares	moist
+LK2660	LK2660.23	LK2660.23.region001	NRPS	NRPS	Near Contig Edge	37005	Nares	moist
+LK2660	LK2660.15	LK2660.15.region001	linaridin	linaridin	Near Contig Edge	15960	Nares	moist
+LK2660	LK2660.15	LK2660.15.region002	terpene	terpene	Near Contig Edge	20996	Nares	moist
+LK2660	LK2660.1	LK2660.1.region001	NAPAA	NAPAA	Not Near Contig Edge	34116	Nares	moist
+LK2660	LK2660.8	LK2660.8.region001	NAPAA	NAPAA	Near Contig Edge	32446	Nares	moist
+LK2660	LK2660.7	LK2660.7.region001	betalactone	betalactone	Not Near Contig Edge	27086	Nares	moist
+LK2660	LK2660.24	LK2660.24.region001	T3PKS	T3PKS	Near Contig Edge	23241	Nares	moist
+LK2660	LK2660.6	LK2660.6.region001	NI-siderophore	NI-siderophore	Near Contig Edge	11824	Nares	moist
+LK2625	LK2625.14	LK2625.14.region001	linaridin	linaridin	Near Contig Edge	15960	Inguinal	moist
+LK2625	LK2625.14	LK2625.14.region002	terpene	terpene	Near Contig Edge	20996	Inguinal	moist
+LK2625	LK2625.1	LK2625.1.region001	NAPAA	NAPAA	Not Near Contig Edge	34116	Inguinal	moist
+LK2625	LK2625.7	LK2625.7.region001	betalactone	betalactone	Not Near Contig Edge	27086	Inguinal	moist
+LK2625	LK2625.9	LK2625.9.region001	NAPAA	NAPAA	Near Contig Edge	32446	Inguinal	moist
+LK2625	LK2625.27	LK2625.27.region001	linaridin	linaridin	Near Contig Edge	4545	Inguinal	moist
+LK2625	LK2625.20	LK2625.20.region001	NI-siderophore	NI-siderophore	Near Contig Edge	11824	Inguinal	moist
+LK2625	LK2625.22	LK2625.22.region001	T3PKS	T3PKS	Near Contig Edge	23140	Inguinal	moist
+LK2625	LK2625.13	LK2625.13.region001	betalactone	betalactone	Not Near Contig Edge	27110	Inguinal	moist
+LK2625	LK2625.21	LK2625.21.region001	NRPS	NRPS	Near Contig Edge	37005	Inguinal	moist
+LK2598	LK2598.7	LK2598.7.region001	betalactone	betalactone	Not Near Contig Edge	27110	Ventral	dry
+LK2598	LK2598.6	LK2598.6.region001	NAPAA	NAPAA	Not Near Contig Edge	33951	Ventral	dry
+LK2598	LK2598.2	LK2598.2.region001	NI-siderophore	NI-siderophore	Near Contig Edge	5918	Ventral	dry
+LK2598	LK2598.28	LK2598.28.region001	terpene	terpene	Near Contig Edge	16313	Ventral	dry
+LK2598	LK2598.35	LK2598.35.region001	T3PKS	T3PKS	Near Contig Edge	7104	Ventral	dry
+LK2598	LK2598.30	LK2598.30.region001	linaridin	linaridin	Near Contig Edge	16051	Ventral	dry
+LK2598	LK2598.1	LK2598.1.region001	NI-siderophore	NI-siderophore	Near Contig Edge	5974	Ventral	dry
+LK2598	LK2598.1	LK2598.1.region002	NAPAA	NAPAA	Not Near Contig Edge	34116	Ventral	dry

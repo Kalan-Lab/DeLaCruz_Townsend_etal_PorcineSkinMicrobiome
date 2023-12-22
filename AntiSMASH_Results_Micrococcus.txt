@@ -1,0 +1,4 @@
+LK2664	LK2664.50	LK2664.50.region001	betalactone	betalactone	Near Contig Edge	18036	Nares	moist
+LK2664	LK2664.39	LK2664.39.region001	ectoine	ectoine	Near Contig Edge	10372	Nares	moist
+LK2664	LK2664.1	LK2664.1.region001	terpene	terpene	Not Near Contig Edge	20909	Nares	moist
+LK2664	LK2664.16	LK2664.16.region001	NAPAA	NAPAA	Not Near Contig Edge	34020	Nares	moist

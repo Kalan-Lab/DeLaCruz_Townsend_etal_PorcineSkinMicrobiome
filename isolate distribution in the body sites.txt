@@ -1,0 +1,20 @@
+Isolate,Body Site,Body Site Type
+LK2510,Ventral,dry
+LK2561,Dorsal,dry
+LK2536,Inguinal,moist
+LK2521,Axilla,moist
+LK2492,Dorsal,dry
+LK2537,Inguinal,moist
+LK2588,Ventral,dry
+LK2582,Ventral,dry
+LK2602,Ventral,dry
+LK2570,Dorsal,dry
+LK2545,Oral,moist
+LK2664,Nares,moist
+LK2538,Oral,moist
+LK2640,Inguinal,moist
+LK2567,Dorsal,dry
+LK2660,Nares,moist
+LK2569,Dorsal,dry
+LK2625,Inguinal,moist
+LK2598,Ventral,dry
