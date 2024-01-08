@@ -24,15 +24,15 @@ def parseAntiSMASHGBKForFunctionAndCompleteness(bgc_gbk):
                             pass
                 bgc_length = str(len(rec.seq))
 
-        product_string = ' '.join(products)
+        product_string = ' '.join(products) + ' '
         if len(products) == 1:
             product = list(products)[0]
         elif len(products) == 2 and 'NRPS-like' in products and 'NRPS' in products:
             product = 'NRPS'
         elif len(products) >= 2:
-            if ' NRPS ' in product_string and 'PKS' in product_string: 
+            if 'NRPS ' in product_string and 'PKS' in product_string: 
                 product = 'multi-type (with NRPS & PKS)'
-            elif ' NRPS ' in product_string:
+            elif 'NRPS ' in product_string:
                 product = 'multi-type (with NRPS)'
             elif 'PKS' in product_string:
                 product = 'multi-type (with PKS)'
